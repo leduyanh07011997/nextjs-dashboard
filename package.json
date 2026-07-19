@@ -30,7 +30,6 @@
   },
   "pnpm": {
     "onlyBuiltDependencies": [
-      "bcrypt",
       "sharp"
     ]
   }
